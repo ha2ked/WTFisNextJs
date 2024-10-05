@@ -1,2 +1,2 @@
-Flask==2.0.1
+Flask==1.1.2  # Compatible with Werkzeug 1.x
 Werkzeug==1.0.1
