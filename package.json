@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@radix-ui/themes": "^3.1.4",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.447.0",
+    "tailwind-merge": "^2.5.3",
+    "tailwindcss-animate": "^1.0.7"
+  }
+}
